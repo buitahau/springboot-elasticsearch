@@ -1,0 +1,26 @@
+[
+  {
+    "name": "BMW X8",
+    "price": 40000,
+    "quantity": 5,
+    "category": "BMW",
+    "description": "",
+    "manufacturer": "Germany"
+  },
+  {
+    "name": "BMW X8",
+    "price": 40000,
+    "quantity": 6,
+    "category": "BMW",
+    "description": "",
+    "manufacturer": "Germany"
+  },
+  {
+    "name": "Camry",
+    "price": 70000,
+    "quantity": 7,
+    "category": "Toyota",
+    "description": "",
+    "manufacturer": "Japan"
+  }
+]
